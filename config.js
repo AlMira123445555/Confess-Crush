@@ -3,7 +3,7 @@ const CONFIG = {
     introTitle: 'Trần Thị Khánh Huyền',
     introDesc: `I love three things in this world: The Sun, the Moon and You. 
 The Sun for the morning, the Moon for the night. And you, FOREVER!`,
-    btnIntro: '^^HiHi^^',
+    btnIntro: 'Tiếp tục nào',
     title: 'Bạn có muốn chúng ta sẽ bên nhau không🥰',
     desc: 'không đồng ý mình buồn lắm đó ',
     btnYes: 'Yêu QA',
@@ -14,5 +14,5 @@ The Sun for the morning, the Moon for the night. And you, FOREVER!`,
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Mong rằng chúng ta sẽ sớm gặp nhau.',
     btnAccept: 'Yêu bạn ',
-    messLink: 'https://www.facebook.com/messages/t/100071459343225
+    messLink: 'https://www.facebook.com/messages/t/100071459343225'
 }
