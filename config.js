@@ -1,20 +1,18 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    titleWeb: "Gửi bạn Huyền yêu",
+    introTitle: 'Trần Thị Khánh Huyền',
+    introDesc: I love three things in this world: The Sun, the Moon and You. 
+The Sun for the morning, the Moon for the night. And you, FOREVER!,
+    btnIntro: 'tiếp tục nào',
+    title: 'Mình đã thích bạn từ lâu lắm rồi làm người yêu mình nhé 🥰',
+    desc: 'Bạn mà từ chối mình sẽ buồn đấy ',
+    btnYes: 'Yêu QA',
+    btnNo: 'Không yêu,ghét QA :3',
+    question: 'Oaa cảm ơn bạn đã đồng ý nha <3',
+    btnReply: 'mình rất hạnh phúc <3',
+    reply: 'Bạn kể mình nghe lý do bạn thích mình được không?',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messDesc: 'Mong chúng ta sẽ được gặp nhau để được ôm bạn',
+    btnAccept: 'Yêu Bạn nhiều',
+    messLink: 'https://www.facebook.com/messages/t/100071459343225
 }
