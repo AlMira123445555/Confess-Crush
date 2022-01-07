@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Gửi cho bạn Huyền <3",
     introTitle: 'Trần Thị Khánh Huyền',
-    introDesc: `I love three things in this world: The Sun, the Moon and You. 
+    introDesc: `I love three things in this world: The Sun, the Moon and You, 
 The Sun for the morning, the Moon for the night. And you, FOREVER!`,
     btnIntro: 'Tiếp tục nào',
     title: 'Bạn có muốn chúng ta sẽ bên nhau không🥰',
